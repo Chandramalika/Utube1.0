@@ -1,5 +1,5 @@
 Deployed Version of this App:
- \Open [Link](https://utube7.netlify.app/) to view/use the application.
+ Open this [Link](https://utube7.netlify.app/) to view/use the application.
 
 This a Youtube Clone with some of the Youtube's functionalities like:
 1. The complete Working Frontpage of Youtube in a different ui. 
